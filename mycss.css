@@ -1,0 +1,106 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ffffff;
+}
+nav.top-right {
+    text-align: right
+
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+header {
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    margin-right: 20px;
+}
+#section-title{
+   font-size: 20px;
+}
+#FirstBio{
+    font-size: 15px;
+    color: #ffffff;
+}
+table{
+    font-size: 15px;
+    color: #ffffff;
+}
+p{
+   margin-bottom: 0; 
+   color: #ffffff;
+   font-weight: bold;
+
+}
+footer{
+    color: #ffffff;
+
+}
+body {
+    background-image: url("wallpaper.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Main-title{
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+caption {
+    white-space: nowrap;
+}
+h2{
+    color: #ffffff;
+
+}
+#bookimage{
+    position: relative;
+    right: 550px; /* Move the image 20 pixels to the right */
+}
+h3{
+    color: #ffffff;
+
+
+}
+#canadiantire{
+    position: relative;
+   top: 20px;
+   right: 10px;
+}
+#subway{
+    position: relative;
+    top: 10px;
+    right: 1px; 
+}
+#dumbells{
+    position: relative;
+    top: 30px;
+    right: 10px; 
+}
+label{
+    color: #ffffff;
+   
+}
+input{
+    position: relative;
+    left: 30px; 
+}
